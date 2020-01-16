@@ -1,0 +1,1366 @@
+Exercise 2
+PS C:\Users\Richard> pwd
+Path
+----
+C:\Users\Richard
+PS C:\Users\Richard>
+Pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd
+Exercise 3
+PS C:\Users\Richard> pwd
+Path
+----
+C:\Users\Richard
+PS C:\Users\Richard> cd ~
+PS C:\Users\Richard>
+Exercise 4
+PS C:\Users\Richard> pwd
+
+Path
+----
+C:\Users\Richard
+
+PS C:\Users\Richard> cd ~
+PS C:\Users\Richard> mkdir temp
+
+    Directory: C:\Users\Richard
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:11 PM                temp
+
+PS C:\Users\Richard> mkdir temp/stuff
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                stuff
+
+PS C:\Users\Richard> mkdir temp/stuff/things
+
+    Directory: C:\Users\Richard\temp\stuff
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                things
+
+PS C:\Users\Richard> mkdir temp/stuff/things/frank/joe/alex/john
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank\joe\alex
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                john
+PS C:\Users\Richard> mkdir temp/boat
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:15 PM                boat
+
+PS C:\Users\Richard> mkdir temp/hour
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:15 PM                hour
+
+PS C:\Users\Richard> mkdir temp/lock/pick
+
+    Directory: C:\Users\Richard\temp\lock
+
+
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:16 PM                pick
+
+PS C:\Users\Richard> mkdir temp/fork
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:16 PM                fork
+
+PS C:\Users\Richard> mkdir temp/spoon
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:16 PM                spoon
+PS C:\Users\Richard> mkdir temp/spork
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:17 PM                spork
+
+PS C:\Users\Richard> mkdir temp/surf
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:17 PM                surf
+
+
+
+
+PS C:\Users\Richard> mkdir temp/hello/hello
+
+    Directory: C:\Users\Richard\temp\hello
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:17 PM                hello
+
+
+PS C:\Users\Richard> mkdir temp/swerve/around
+    Directory: C:\Users\Richard\temp\swerve
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:17 PM                around
+
+PS C:\Users\Richard> mkdir temp/fir
+
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:18 PM                fir
+PS C:\Users\Richard> mkdir temp/your
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:20 PM                your
+
+PS C:\Users\Richard> mkdir temp/you
+
+    Directory: C:\Users\Richard\temp
+
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:20 PM                you
+
+
+PS C:\Users\Richard> mkdir temp/afford
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:20 PM                afford
+
+PS C:\Users\Richard> mkdir temp/qwerty
+
+    Directory: C:\Users\Richard\temp
+
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:21 PM                qwerty
+
+PS C:\Users\Richard> mkdir temp/asdf
+
+    Directory: C:\Users\Richard\temp
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:21 PM                asdf
+PS C:\Users\Richard> mkdir temp/ghjk/kl
+
+
+    Directory: C:\Users\Richard\temp\ghjk
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:21 PM                kl
+
+
+PS C:\Users\Richard> mkdir temp/qwe/rtyu
+
+
+    Directory: C:\Users\Richard\temp\qwe
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:22 PM                rtyu
+
+
+PS C:\Users\Richard> mkdir temp/zxc/vbn
+
+
+    Directory: C:\Users\Richard\temp\zxc
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:23 PM                vbn
+PS C:\Users\Richard> mkdir temp/sdf
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:24 PM                sdf
+
+
+PS C:\Users\Richard> mkdir temp/or
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:24 PM                or
+
+PS C:\Users\Richard> mkdir "I Have Fun"
+
+    Directory: C:\Users\Richard
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:24 PM                I Have Fun
+Exercise 5
+PS C:\Users\Richard\temp\stuff\things> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things
+
+
+PS C:\Users\Richard\temp\stuff\things> cd ~
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> pwd
+
+Path
+----
+C:\Users\Richard\temp
+
+
+PS C:\Users\Richard\temp> cd stuff
+PS C:\Users\Richard\temp\stuff> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff
+
+
+PS C:\Users\Richard\temp\stuff> cd things
+PS C:\Users\Richard\temp\stuff\things> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things
+PS C:\Users\Richard\temp\stuff\things> cd frank
+PS C:\Users\Richard\temp\stuff\things\frank> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things\frank
+
+
+PS C:\Users\Richard\temp\stuff\things\frank> cd joe
+PS C:\Users\Richard\temp\stuff\things\frank\joe> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things\frank\joe
+PS C:\Users\Richard\temp\stuff\things\frank\joe> cd alex
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things\frank\joe\alex
+
+
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> cd john
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex\john> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things\frank\joe\alex\john
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex\john> cd ..
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> cd ..
+PS C:\Users\Richard\temp\stuff\things\frank\joe> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things\frank\joe
+PS C:\Users\Richard\temp\stuff\things\frank\joe> cd ..
+PS C:\Users\Richard\temp\stuff\things\frank> cd..
+PS C:\Users\Richard\temp\stuff\things> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things
+PS C:\Users\Richard\temp\stuff\things> cd ../../..
+PS C:\Users\Richard> pwd
+
+Path
+----
+C:\Users\Richard
+PS C:\Users\Richard> cd temp/stuff/things/frank/joe/alex/john
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex\john> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things\frank\joe\alex\john
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex\john> cd ../../../../../../..
+PS C:\Users\Richard> pwd
+Path
+----
+C:\Users\Richard
+PS C:\Users\Richard> cd temp/stuff/things/frank/joe
+PS C:\Users\Richard\temp\stuff\things\frank\joe> pwd
+
+Path
+----
+C:\Users\Richard\temp\stuff\things\frank\joe
+
+
+PS C:\Users\Richard\temp\stuff\things\frank\joe> cd ../../../..
+PS C:\Users\Richard\temp> cd ~
+PS C:\Users\Richard> cd Documents
+PS C:\Users\Richard\Documents> cd Downloads
+PS C:\Users\Richard\Documents\Downloads> cd ../../Pictures
+PS C:\Users\Richard\Pictures> cd "I Have Fun"
+cd : Cannot find path 'C:\Users\Richard\Pictures\I Have Fun' because it does not exist.
+At line:1 char:1
++ cd "I Have Fun"
++ ~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Richard\Pictures\I Have Fun:String) [Set-Location], ItemNotFou
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand
+
+PS C:\Users\Richard\Pictures> cd ~
+PS C:\Users\Richard> cd "I Have Fun"
+PS C:\Users\Richard\I Have Fun>
+Exercise 6
+PS C:\Users\Richard> cd ~
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:20 PM                afford
+d-----        1/15/2020   1:21 PM                asdf
+d-----        1/15/2020   1:15 PM                boat
+d-----        1/15/2020   1:18 PM                fir
+d-----        1/15/2020   1:16 PM                fork
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:15 PM                hour
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:24 PM                or
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:21 PM                qwerty
+d-----        1/15/2020   1:24 PM                sdf
+d-----        1/15/2020   1:16 PM                spoon
+d-----        1/15/2020   1:17 PM                spork
+d-----        1/15/2020   1:12 PM                stuff
+d-----        1/15/2020   1:17 PM                surf
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   1:20 PM                you
+d-----        1/15/2020   1:20 PM                your
+d-----        1/15/2020   1:23 PM                zxc
+
+
+PS C:\Users\Richard\temp> cd stuff
+PS C:\Users\Richard\temp\stuff> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                things
+PS C:\Users\Richard\temp\stuff> cd things
+PS C:\Users\Richard\temp\stuff\things> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff\things
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                frank
+
+
+PS C:\Users\Richard\temp\stuff\things> cd frank
+PS C:\Users\Richard\temp\stuff\things\frank> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                joe
+PS C:\Users\Richard\temp\stuff\things\frank> cd joe
+PS C:\Users\Richard\temp\stuff\things\frank\joe> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank\joe
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                alex
+
+
+PS C:\Users\Richard\temp\stuff\things\frank\joe> cd alex
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank\joe\alex
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                john
+
+
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> cd john
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex\john> ls
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex\john> cd ..
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank\joe\alex
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                john
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> cd ../../../
+PS C:\Users\Richard\temp\stuff\things> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff\things
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                frank
+
+
+PS C:\Users\Richard\temp\stuff\things> cd ../../
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:20 PM                afford
+d-----        1/15/2020   1:21 PM                asdf
+d-----        1/15/2020   1:15 PM                boat
+d-----        1/15/2020   1:18 PM                fir
+d-----        1/15/2020   1:16 PM                fork
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:15 PM                hour
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:24 PM                or
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:21 PM                qwerty
+d-----        1/15/2020   1:24 PM                sdf
+d-----        1/15/2020   1:16 PM                spoon
+d-----        1/15/2020   1:17 PM                spork
+d-----        1/15/2020   1:12 PM                stuff
+d-----        1/15/2020   1:17 PM                surf
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   1:20 PM                you
+d-----        1/15/2020   1:20 PM                your
+d-----        1/15/2020   1:23 PM                zxc
+PS C:\Users\Richard\temp> dir -R
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:20 PM                afford
+d-----        1/15/2020   1:21 PM                asdf
+d-----        1/15/2020   1:15 PM                boat
+d-----        1/15/2020   1:18 PM                fir
+d-----        1/15/2020   1:16 PM                fork
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:15 PM                hour
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:24 PM                or
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:21 PM                qwerty
+d-----        1/15/2020   1:24 PM                sdf
+d-----        1/15/2020   1:16 PM                spoon
+d-----        1/15/2020   1:17 PM                spork
+d-----        1/15/2020   1:12 PM                stuff
+d-----        1/15/2020   1:17 PM                surf
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   1:20 PM                you
+d-----        1/15/2020   1:20 PM                your
+d-----        1/15/2020   1:23 PM                zxc
+
+
+    Directory: C:\Users\Richard\temp\ghjk
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:21 PM                kl
+
+
+    Directory: C:\Users\Richard\temp\hello
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:17 PM                hello
+
+
+    Directory: C:\Users\Richard\temp\lock
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:16 PM                pick
+
+
+    Directory: C:\Users\Richard\temp\qwe
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:22 PM                rtyu
+
+
+    Directory: C:\Users\Richard\temp\stuff
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                things
+
+
+    Directory: C:\Users\Richard\temp\stuff\things
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                frank
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                joe
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank\joe
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                alex
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank\joe\alex
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                john
+
+
+    Directory: C:\Users\Richard\temp\swerve
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:17 PM                around
+
+
+    Directory: C:\Users\Richard\temp\zxc
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:23 PM                vbn
+PS C:\Users\Richard\temp> cd ..
+PS C:\Users\Richard> cd Documents
+PS C:\Users\Richard\Documents> cd "Econometrics Articles"
+PS C:\Users\Richard\Documents\Econometrics Articles> ls
+
+
+    Directory: C:\Users\Richard\Documents\Econometrics Articles
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----       11/10/2019  12:54 PM        1829817 Composition of Hedonic Pricing Models.pdf
+-a----        9/20/2015   3:18 PM         909178 Effects on Gated Community on Beach Amenity Valuation.pdf
+-a----       10/13/2015   4:47 PM        3632263 Fults and Nardoni (2015) (1).pdf
+-a----       10/31/2019  12:09 PM         448295 Hedonic Pricing for Rentals in Turkey.pdf
+-a----       10/31/2019  11:51 AM        1856869 Love Thy Neighbor.pdf
+-a----        9/20/2015   3:46 PM         107499 Pricing Residential Amenities The Value of a View.pdf
+-a----       10/13/2015   6:59 PM          65532 Richard Cebula.pdf
+-a----        9/20/2015   4:00 PM         305996 Valuing Beach Quality with Hedonic Pricing Models.pdf
+Exercise 7
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:20 PM                afford
+d-----        1/15/2020   1:21 PM                asdf
+d-----        1/15/2020   1:15 PM                boat
+d-----        1/15/2020   1:18 PM                fir
+d-----        1/15/2020   1:16 PM                fork
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:15 PM                hour
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:24 PM                or
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:21 PM                qwerty
+d-----        1/15/2020   1:24 PM                sdf
+d-----        1/15/2020   1:16 PM                spoon
+d-----        1/15/2020   1:17 PM                spork
+d-----        1/15/2020   1:12 PM                stuff
+d-----        1/15/2020   1:17 PM                surf
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   1:20 PM                you
+d-----        1/15/2020   1:20 PM                your
+d-----        1/15/2020   1:23 PM                zxc
+
+
+PS C:\Users\Richard\temp> cd stuff/things/frank/joe/alex/john
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex\john> cd..
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> rmdir john
+PS C:\Users\Richard\temp\stuff\things\frank\joe\alex> cd ..
+PS C:\Users\Richard\temp\stuff\things\frank\joe> rmdir alex
+PS C:\Users\Richard\temp\stuff\things\frank\joe> cd ..
+PS C:\Users\Richard\temp\stuff\things\frank> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff\things\frank
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                joe
+PS C:\Users\Richard\temp\stuff\things\frank> rmdir joe
+PS C:\Users\Richard\temp\stuff\things\frank> cd ..
+PS C:\Users\Richard\temp\stuff\things> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff\things
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:12 PM                frank
+PS C:\Users\Richard\temp\stuff\things> rmdir frank
+PS C:\Users\Richard\temp\stuff\things> cd
+PS C:\Users\Richard\temp\stuff\things> cd..
+PS C:\Users\Richard\temp\stuff> ls
+
+
+    Directory: C:\Users\Richard\temp\stuff
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:09 PM                things
+PS C:\Users\Richard\temp\stuff> rmdir things
+PS C:\Users\Richard\temp\stuff> cd ..
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:20 PM                afford
+d-----        1/15/2020   1:21 PM                asdf
+d-----        1/15/2020   1:15 PM                boat
+d-----        1/15/2020   1:18 PM                fir
+d-----        1/15/2020   1:16 PM                fork
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:15 PM                hour
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:24 PM                or
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:21 PM                qwerty
+d-----        1/15/2020   1:24 PM                sdf
+d-----        1/15/2020   1:16 PM                spoon
+d-----        1/15/2020   1:17 PM                spork
+d-----        1/15/2020   1:12 PM                stuff
+d-----        1/15/2020   1:17 PM                surf
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   1:20 PM                you
+d-----        1/15/2020   1:20 PM                your
+d-----        1/15/2020   1:23 PM                zxc
+
+
+PS C:\Users\Richard\temp> rmdir stuff
+PS C:\Users\Richard\temp> pwd
+
+Path
+----
+C:\Users\Richard\temp
+PS C:\Users\Richard\temp> rmdir afford
+PS C:\Users\Richard\temp> rmdir asdf
+PS C:\Users\Richard\temp> rmdir boat
+PS C:\Users\Richard\temp> rmdir fir
+PS C:\Users\Richard\temp> rmdir fork
+PS C:\Users\Richard\temp> rmdir hour
+PS C:\Users\Richard\temp> rmdir or
+PS C:\Users\Richard\temp> rmdir qwerty
+PS C:\Users\Richard\temp> rmdir sdf
+PS C:\Users\Richard\temp> rmdir spoon
+PS C:\Users\Richard\temp> rmdir spork
+PS C:\Users\Richard\temp> rmdir surf
+PS C:\Users\Richard\temp> rmdir you
+PS C:\Users\Richard\temp> rmdir your
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   1:23 PM                zxc
+PS C:\Users\Richard\temp> mkdir a/b/c/d/e/f/g/h/i/j/
+
+
+    Directory: C:\Users\Richard\temp\a\b\c\d\e\f\g\h\i
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:16 PM                j
+
+
+PS C:\Users\Richard\temp> cd a/b/c/d/e/f/g/h/i/j
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g\h\i\j> cd ..
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g\h\i> rmdir j
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g\h\i> ls
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g\h\i> cd..
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g\h> rmdir i
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g\h> cd ..
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g> rmdir h
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g> cd
+PS C:\Users\Richard\temp\a\b\c\d\e\f\g> cd..
+PS C:\Users\Richard\temp\a\b\c\d\e\f> rmdir g
+PS C:\Users\Richard\temp\a\b\c\d\e\f> cd ..
+PS C:\Users\Richard\temp\a\b\c\d\e> rmdir f
+PS C:\Users\Richard\temp\a\b\c\d\e> cd
+PS C:\Users\Richard\temp\a\b\c\d\e> cd ..
+PS C:\Users\Richard\temp\a\b\c\d> rmdir e
+PS C:\Users\Richard\temp\a\b\c\d> cd ..
+PS C:\Users\Richard\temp\a\b\c> rmdir d
+PS C:\Users\Richard\temp\a\b\c> cd ..
+PS C:\Users\Richard\temp\a\b> rmdir c
+PS C:\Users\Richard\temp\a\b> cd ..
+PS C:\Users\Richard\temp\a> rmdir b
+PS C:\Users\Richard\temp\a> cd ..
+PS C:\Users\Richard\temp> rmdir a
+PS C:\Users\Richard\temp>
+Exercise 8
+PS C:\Users\Richard\temp> pwd
+
+Path
+----
+C:\Users\Richard\temp
+
+PS C:\Users\Richard\temp> cd ~
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> mkdir -p i/like/icecream
+
+    Directory: C:\Users\Richard\temp\i\like
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:21 PM                icecream
+PS C:\Users\Richard\temp> pushd i/like/icecream
+PS C:\Users\Richard\temp\i\like\icecream> popd
+PS C:\Users\Richard\temp> pwd
+
+Path
+----
+C:\Users\Richard\temp
+PS C:\Users\Richard\temp> pushd i/like
+PS C:\Users\Richard\temp\i\like> pwd
+
+Path
+----
+C:\Users\Richard\temp\i\like
+PS C:\Users\Richard\temp\i\like> pushd icecream
+PS C:\Users\Richard\temp\i\like\icecream> pwd
+
+Path
+----
+C:\Users\Richard\temp\i\like\icecream
+PS C:\Users\Richard\temp\i\like\icecream> popd
+PS C:\Users\Richard\temp\i\like> pwd
+
+Path
+----
+C:\Users\Richard\temp\i\like
+
+
+PS C:\Users\Richard\temp\i\like> popd
+PS C:\Users\Richard\temp> pushd i/like/icecream
+PS C:\Users\Richard\temp\i\like\icecream> pushd
+PS C:\Users\Richard\temp\i\like\icecream> pwd
+
+Path
+----
+C:\Users\Richard\temp\i\like\icecream
+
+
+PS C:\Users\Richard\temp\i\like\icecream> pushd
+PS C:\Users\Richard\temp\i\like\icecream> pwd
+
+Path
+----
+C:\Users\Richard\temp\i\like\icecream
+PS C:\Users\Richard\temp\i\like\icecream> cd ..
+PS C:\Users\Richard\temp\i\like> rmdir icecream
+PS C:\Users\Richard\temp\i\like> cd..
+PS C:\Users\Richard\temp\i> rmdir like
+PS C:\Users\Richard\temp\i> cd ..
+PS C:\Users\Richard\temp> rmdir i
+PS C:\Users\Richard\temp> mkdir -p this/is/practice
+
+
+    Directory: C:\Users\Richard\temp\this\is
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:33 PM                practice
+PS C:\Users\Richard\temp> pushd this/is
+PS C:\Users\Richard\temp\this\is> pushd practice
+PS C:\Users\Richard\temp\this\is\practice> popd
+PS C:\Users\Richard\temp\this\is>
+Exercise 9
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> touch iamcool.txt
+touch : The term 'touch' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ touch iamcool.txt
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (touch:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\Richard\temp> new-item iamcool.txt
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+
+
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   2:33 PM                this
+d-----        1/15/2020   1:23 PM                zxc
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+PS C:\Users\Richard\temp> mkdir a
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:39 PM                a
+
+
+PS C:\Users\Richard\temp> cd a
+PS C:\Users\Richard\temp\a> new-item practice
+
+
+    Directory: C:\Users\Richard\temp\a
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        1/15/2020   2:39 PM              0 practice
+
+
+PS C:\Users\Richard\temp\a> cd ..
+PS C:\Users\Richard\temp> rmdir a
+
+Confirm
+The item at C:\Users\Richard\temp\a has children and the Recurse parameter was not specified. If you continue, all
+children will be removed with the item. Are you sure you want to continue?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "Y"):
+Exercise 10
+PS C:\Users\Richard\temp> cd ~
+PS C:\Users\Richard> pwd
+
+Path
+----
+C:\Users\Richard
+
+
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> cp iamcool.txt neat.txt
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:41 PM                a
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   2:33 PM                this
+d-----        1/15/2020   1:23 PM                zxc
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+PS C:\Users\Richard\temp> cp neat.txt awesome.txt
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:41 PM                a
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   2:33 PM                this
+d-----        1/15/2020   1:23 PM                zxc
+-a----        1/15/2020   2:37 PM              0 awesome.txt
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+
+
+PS C:\Users\Richard\temp> cp awesome.txt thefourthfile.txt
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:41 PM                a
+d-----        1/15/2020   1:21 PM                ghjk
+d-----        1/15/2020   1:17 PM                hello
+d-----        1/15/2020   1:16 PM                lock
+d-----        1/15/2020   1:22 PM                qwe
+d-----        1/15/2020   1:17 PM                swerve
+d-----        1/15/2020   2:33 PM                this
+d-----        1/15/2020   1:23 PM                zxc
+-a----        1/15/2020   2:37 PM              0 awesome.txt
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+PS C:\Users\Richard\temp> mkdir something
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:51 PM                something
+
+
+PS C:\Users\Richard\temp> cp awesome.txt something
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   2:37 PM              0 awesome.txt
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+
+
+PS C:\Users\Richard\temp> ls something
+
+
+    Directory: C:\Users\Richard\temp\something
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        1/15/2020   2:37 PM              0 awesome.txt
+PS C:\Users\Richard\temp> cp -r something newplace
+PS C:\Users\Richard\temp> ls newplace
+
+
+    Directory: C:\Users\Richard\temp\newplace
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        1/15/2020   2:37 PM              0 awesome.txt
+PS C:\Users\Richard\temp> cp -r something ~
+PS C:\Users\Richard\temp> cp -r something Desktop
+PS C:\Users\Richard\temp> ls Desktop
+
+
+    Directory: C:\Users\Richard\temp\Desktop
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        1/15/2020   2:37 PM              0 awesome.txt
+Exercise 11
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> mv awesome.txt uncool.txt
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:56 PM                newplace
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+-a----        1/15/2020   2:37 PM              0 uncool.txt
+PS C:\Users\Richard\temp> mv newplace oldplace
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:56 PM                oldplace
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+-a----        1/15/2020   2:37 PM              0 uncool.txt
+PS C:\Users\Richard\temp> mv oldplace newplace
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:56 PM                newplace
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+-a----        1/15/2020   2:37 PM              0 uncool.txt
+PS C:\Users\Richard\temp> move newplace temp
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:55 PM                something
+d-----        1/15/2020   2:56 PM                temp
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+-a----        1/15/2020   2:37 PM              0 uncool.txt
+
+
+PS C:\Users\Richard\temp> mv temp newplace
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:56 PM                newplace
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+-a----        1/15/2020   2:37 PM              0 uncool.txt
+Exercise 12
+PS C:\Users\Richard> cd Desktop
+PS C:\Users\Richard\Desktop> cp -r test.txt something
+PS C:\Users\Richard\Desktop> mv test.txt /Users/Richard/temp
+PS C:\Users\Richard\Desktop> cd ..
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:56 PM                newplace
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   3:31 PM             18 test.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+-a----        1/15/2020   2:37 PM              0 uncool.txt
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> more test.txt
+Fdsjkljkdlfaafsd
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> more test.txt
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfdfdsj
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+PS C:\Users\Richard\temp> more thefourthfile.txt
+Exercise 13
+PS C:\Users\Richard\temp> more test2.txt
+fasfdsafdsafasfdafdsa
+
+PS C:\Users\Richard\temp> cat test2.txt
+fasfdsafdsafasfdafdsa
+PS C:\Users\Richard\temp> cat test.txt
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfdfdsj
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+PS C:\Users\Richard\temp> cat test3.txt
+this is practice
+PS C:\Users\Richard\temp> cat test.txt,test2.txt
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfdfdsj
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fdsjkljkdlfaafsdfdsjkljkdlfaafsdfdsjkljkdlfaafsd
+fasfdsafdsafasfdafdsa
+Exercise 14
+PS C:\Users\Richard> cd temp
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:56 PM                newplace
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   4:04 PM           1250 test.txt
+-a----        1/15/2020   4:14 PM             23 test2.txt
+-a----        1/15/2020   4:19 PM             18 test3.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+-a----        1/15/2020   2:37 PM              0 uncool.txt
+
+
+PS C:\Users\Richard\temp> rm uncool.txt
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:56 PM                newplace
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   2:37 PM              0 iamcool.txt
+-a----        1/15/2020   2:37 PM              0 neat.txt
+-a----        1/15/2020   4:04 PM           1250 test.txt
+-a----        1/15/2020   4:14 PM             23 test2.txt
+-a----        1/15/2020   4:19 PM             18 test3.txt
+-a----        1/15/2020   2:37 PM              0 thefourthfile.txt
+PS C:\Users\Richard\temp> rm iamcool.txt
+PS C:\Users\Richard\temp> rm neat.txt
+PS C:\Users\Richard\temp> rm thefourthfile.txt
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+d-----        1/15/2020   2:56 PM                newplace
+d-----        1/15/2020   2:55 PM                something
+-a----        1/15/2020   4:04 PM           1250 test.txt
+-a----        1/15/2020   4:14 PM             23 test2.txt
+-a----        1/15/2020   4:19 PM             18 test3.txt
+PS C:\Users\Richard\temp> cp -r something newplace
+PS C:\Users\Richard\temp> rm something/awesome.txt
+PS C:\Users\Richard\temp> rmdir something
+PS C:\Users\Richard\temp> rm -r newplace
+PS C:\Users\Richard\temp> ls
+
+
+    Directory: C:\Users\Richard\temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/15/2020   2:57 PM                Desktop
+-a----        1/15/2020   4:04 PM           1250 test.txt
+-a----        1/15/2020   4:14 PM             23 test2.txt
+-a----        1/15/2020   4:19 PM             18 test3.txt
+PS C:\Users\Richard\temp> rm Desktop
+
+Confirm
+The item at C:\Users\Richard\temp\Desktop has children and the Recurse parameter was not specified. If you continue,
+all children will be removed with the item. Are you sure you want to continue?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "Y"): Y
+PS C:\Users\Richard\temp> rm test.txt
+PS C:\Users\Richard\temp> rm test2.txt
+PS C:\Users\Richard\temp> rm test3.txt
+Exercise 15
+PS C:\Users\Richard\temp> exit
